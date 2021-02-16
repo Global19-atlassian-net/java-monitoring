@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.0.13](https://www.github.com/googleapis/java-monitoring/compare/v2.0.12...v2.0.13) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#419](https://www.github.com/googleapis/java-monitoring/issues/419)) ([66f4480](https://www.github.com/googleapis/java-monitoring/commit/66f448033b8513186040a45863d7431f82b69454))
+* **samples:** fix NPE in DeleteMetricDescriptorIT#testDeleteMetricDescriptor ([#388](https://www.github.com/googleapis/java-monitoring/issues/388)) ([8475219](https://www.github.com/googleapis/java-monitoring/commit/84752197487103e08cba5a8b3da04d856266363a))
+
 ### [2.0.12](https://www.github.com/googleapis/java-monitoring/compare/v2.0.11...v2.0.12) (2021-01-14)
 
 
